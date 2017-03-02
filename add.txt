@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 dataw
 w_
 bbbtsuikaw
+=======
+datam
+w_
+bbbtsuikam
+>>>>>>> 51b8008c57f1165774a82cf38036dcdf1e71216f
